@@ -1,0 +1,48 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+#container {
+    width: 500px;
+}
+
+#timer-label {
+    font-size: 40px;
+}
+
+#break-length {
+    font-size: 30px;
+    padding: 3px;
+    margin: 3px;
+
+}
+
+#session-length {
+    font-size: 30px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.card {
+    width: 75%;
+    background-color: #bbdefb;
+    padding: 5px;
+    margin: 2px;
+    color: #000;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.play {
+    background-color: #004d40;
+    color: #fff;
+    width: 200px;
+}
+
+.reset {
+    background-color: #880e4f;
+    color: #fff;
+    width: 200px
+}
